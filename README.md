@@ -1,4 +1,4 @@
-# elverso
-El Verso es e proyecto de titulación de Mauricio Saavedra Villareal, Sairi Milla García y ???. 
+# El Verso
+El Verso es el proyecto de titulación de Mauricio Saavedra Villareal, Sairi Milla García y ???. 
 
-Buscamos hacer un juego de alta calidad
+Aquí se encuentran todos los documentos referentes al diseño, concepto y desarrollo del juego.
